@@ -1,0 +1,88 @@
+html {
+    font-size: 10px;
+    font-family: 'Diablo', sans-serif;
+  }
+
+.welcomepage {
+      background-image: url("../images/tristram.png");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-color: black
+  }
+
+.diablopage {
+      background-image: url("../images/diablo.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+
+.warriorpage {
+      background-image: url("../images/warrior.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+
+  .roguepage {
+        background-image: url("../images/rogue.jpg");
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+  .sorcererpage {
+        background-image: url("../images/sorcerer.jpg");
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+.stayawhile {
+  text-align: center
+}
+
+p1 {
+  font-size: 16px;
+  color: white
+}
+iframe {
+  align-items: center;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+    text-align:
+    margin: 0;
+    padding: 20px 0;
+    color: white;
+}
+
+.storytext {
+  color: white;
+  font-style: italic;
+  font-size: 20px
+}
+  a:link {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+  a:active {
+    color: white;
+  }
