@@ -1,6 +1,15 @@
+@font-face {
+    font-family: 'diablolight';
+    src: url('../fonts/diablo_l-webfont.woff2') format('woff2'),
+         url('../fonts/diablo_l-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html {
     font-size: 10px;
-    font-family: 'Diablo', sans-serif;
+    font-family: 'diablolight';
   }
 
 .welcomepage {
@@ -44,18 +53,14 @@ html {
         background-size: cover;
     }
 
-.stayawhile {
-  text-align: center
-}
-
 p1 {
+  font-family: 'diablolight';
   font-size: 16px;
   color: white
 }
-iframe {
-  align-items: center;
-}
+
 h2 {
+    font-family: 'diablolight';
     font-size: 24px;
     text-align: center;
     text-align:
